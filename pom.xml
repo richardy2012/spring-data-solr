@@ -5,7 +5,7 @@
 
 	<groupId>org.springframework.data</groupId>
 	<artifactId>spring-data-solr</artifactId>
-	<version>3.0.0.BUILD-SNAPSHOT</version>
+	<version>3.0.0.DATASOLR-406-SNAPSHOT</version>
 
 	<name>Spring Data Solr</name>
 	<description>Spring Data module providing support for Apache Solr repositories.</description>
@@ -22,7 +22,7 @@
 		<commons.lang>3.1</commons.lang>
 		<httpcomponents>4.3.1</httpcomponents>
 		<solr>6.5.0</solr>
-		<springdata.commons>2.0.0.BUILD-SNAPSHOT</springdata.commons>
+		<springdata.commons>2.0.0.DATACMNS-1101-SNAPSHOT</springdata.commons>
 	</properties>
 
 	<developers>
